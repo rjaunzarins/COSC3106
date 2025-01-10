@@ -3,5 +3,5 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Test File" << stdL::endl;
+  std::cout << "Test File";
 }
